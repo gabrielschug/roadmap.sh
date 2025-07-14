@@ -19,7 +19,8 @@ O objetivo foi criar uma página estática representando meu currículo, com foc
 
 ## 🚀 Acesse o site publicado:
 
-🔗 [Clique aqui para visualizar a Página](https://roadmap-sh-omega.vercel.app/)
+<a href="https://roadmap-sh-omega.vercel.app/" target="_blank" style="font-weight: bold; font-size: larger">🔗 Clique aqui para visualizar a Página</a>
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas:
