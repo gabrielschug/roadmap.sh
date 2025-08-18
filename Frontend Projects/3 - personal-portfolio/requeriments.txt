@@ -1,0 +1,11 @@
+- Um site totalmente estilizado e responsivo com a mesma estrutura do projeto anterior.
+
+- Adicione suporte para o modo escuro usando variáveis CSS.
+
+# Use o Google Fonts para aprimorar a tipografia do seu site: ADD Font Inter
+# Uso consistente de um esquema de cores e tipografia escolhidos.
+# Uso adequado de técnicas CSS como Flexbox, consultas de mídia e o modelo de caixa.
+# Uma barra de navegação responsiva e um formulário de contato bem estilizado.
+- Procure no GitHub Pages ou no Cloudflare Pages para hospedar seu site gratuitamente.
+
+www.gabrielschug.com.br
