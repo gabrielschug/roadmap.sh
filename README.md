@@ -10,7 +10,7 @@ Aqui documento minha evolução prática na área de **Frontend Development**, a
 ### 1️⃣ Single Page CV
 Um currículo em página única feito com HTML e CSS, com foco em estruturação semântica e estilo simples.
 - 🔗 [Visualizar Projeto](https://roadmap.sh/projects/single-page-cv)
-- 💻 [Código no GitHub](https://github.com/gabrielschug/roadmap.sh/tree/main/Frontend%20Projects/1%20-%20Single%20Page%20CV)
+- 💻 [Código no GitHub](https://github.com/gabrielschug/roadmap.sh/tree/main/Frontend%20Projects/1%20-%20single-page-CV)
 
 
 ---
