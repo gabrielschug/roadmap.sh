@@ -12,12 +12,14 @@ Um currículo em página única feito com HTML e CSS, com foco em estruturação
 - 🔗 [Visualizar Projeto](https://roadmap.sh/projects/single-page-cv)
 - 💻 [Código no GitHub](https://github.com/gabrielschug/roadmap.sh/tree/main/Frontend%20Projects/1%20-%20Single%20Page%20CV)
 
+
 ---
 
 ### 2️⃣ Basic HTML Website
 Site básico em HTML com múltiplas páginas e navegação, sem uso de CSS ou JavaScript, focado na prática dos fundamentos do HTML.
 - 🔗 [Visualizar Projeto](https://roadmap.sh/projects/basic-html-website)
-- 💻 [Código no GitHub](https://github.com/gabrielschug/roadmap.sh/tree/main/Frontend%20Projects/2%20-%20Basic%20HTML%20Website)
+- 💻 [Código no GitHub](https://github.com/gabrielschug/roadmap.sh/tree/main/Frontend%20Projects/2%20-%20Basic-html-website)
+
 
 ---
 
